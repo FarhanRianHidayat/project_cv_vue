@@ -50,6 +50,7 @@ nav a.router-link-exact-active {
 
 nav a.router-link-exact-active:hover {
   background-color: transparent;
+  border-radius: 15px;
 }
 
 nav a {

@@ -72,6 +72,9 @@ import SupportIcon from './icons/IconSupport.vue'
       <li>
         <a target="_blank" href="https://github.com/FarhanRianHidayat">github.com/FarhanRianHidayat</a>
       </li>
+      <li>
+        Jl. Kamboja 5 No:35 RT:03 RW:04 Depok 2 Tengah, 16411
+      </li>
     </ul>
   </WelcomeItem>
 </template>
